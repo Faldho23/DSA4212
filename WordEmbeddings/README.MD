@@ -1,0 +1,1 @@
+Goal: Implement a simple word embedding in Python (from scratch) and use it to find the most similar words to a given word. Your report should not include any actual code. Instead, it should describe how word embeddings work, how you implemented it, and provide a discussion of the results.
